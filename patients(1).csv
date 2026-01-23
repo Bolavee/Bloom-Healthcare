@@ -1,0 +1,121 @@
+patient_id,first_name,last_name,gender,age,state
+1,Adewale,Adeyemi,F,19,Ogun
+2, Oluwaseun,Ogunleye,M,20,Lagos
+3, Funke,Balogun,F,21,Ondo
+4, Adebayo, Akinwale,M,22,Ekiti
+5, Kemi, Olatunji,F,23,Osun
+6, Sola,Olawale,M,24,Oyo
+7, Yemi, Adebisi,F,25,Ogun
+8, Bisi, Ajayi,M,26,Lagos
+9, Tunde, Ojo,F,27,Ondo
+10, Bola, Afolayan,M,28,Ekiti
+11,Ibrahim,Abdullahi,F,29,Osun
+12,Sadiq,Mohammed,M,30,Oyo
+13,Musa, Lawal,F,31,Ogun
+14, Aisha, Suleiman,M,32,Lagos
+15, Zainab,Adamu,F,33,Ondo
+16, Fatima,Garba,M,34,Ekiti
+17,Abdul, Bello,F,35,Osun
+18, Sule, Shehu,M,36,Oyo
+19, Hauwa, Yakubu,F,37,Ogun
+20, Yusuf,Okafor,M,38,Lagos
+21,"Chinedu,", Okoye,F,39,Ondo
+22,Ngozi,Eze,M,40,Ekiti
+23, Ifeoma,Nwankwo,F,41,Osun
+24, Emeka, Onyekachi,M,42,Oyo
+25,Nnamdi,Chukwu,F,43,Ogun
+26, Uche,Iroegbu,M,44,Lagos
+27,Chiamaka, Ibeh,F,45,Ondo
+28, Obinna, Obi,M,46,Ekiti
+29,Blessing, Adebisi,F,47,Osun
+30, Ikenna, Ajayi,M,48,Oyo
+31,Samuel, Ojo,F,49,Ogun
+32,Daniel, Afolayan,M,50,Lagos
+33, Esther,Abdullahi,F,51,Ondo
+34,Ruth,Mohammed,M,52,Ekiti
+35, Deborah,Adeyemi,F,53,Osun
+36,Grace,Ogunleye,M,54,Oyo
+37, Patience,Balogun,F,55,Ogun
+38, Joy, Akinwale,M,56,Lagos
+39,Joy, Olatunji,F,57,Ondo
+40, Uche,Olawale,M,58,Ekiti
+41,Chiamaka, Lawal,F,59,Osun
+42, Obinna,Okafor,M,60,Oyo
+43,Blessing, Okoye,F,61,Ogun
+44, Ikenna,Eze,M,62,Lagos
+45,Samuel,Nwankwo,F,63,Ondo
+46,Daniel, Onyekachi,M,64,Ekiti
+47, Esther,Chukwu,F,65,Osun
+48,Ruth,Iroegbu,M,66,Oyo
+49,Adewale, Ibeh,F,67,Ogun
+50, Oluwaseun, Obi,M,68,Lagos
+51, Funke, Suleiman,F,69,Ondo
+52, Adebayo,Adamu,M,70,Ekiti
+53, Kemi,Garba,F,71,Osun
+54, Sola, Bello,M,72,Oyo
+55, Yemi, Shehu,F,73,Ogun
+56, Bisi,Nwankwo,M,74,Lagos
+57, Adebisi, Onyekachi,F,75,Ondo
+58, Ajayi,Chukwu,M,76,Ekiti
+59, Ojo,Iroegbu,F,77,Osun
+60, Afolayan, Ibeh,M,18,Oyo
+61,Abdullahi, Obi,F,19,Ogun
+62,Mohammed, Suleiman,M,20,Lagos
+63,Adeyemi,Adamu,F,21,Ondo
+64,Ogunleye,Adeyemi,M,22,Ekiti
+65,Balogun,Ogunleye,F,23,Osun
+66, Akinwale,Balogun,M,24,Oyo
+67, Olatunji, Akinwale,F,25,Ogun
+68,Olawale, Olatunji,M,26,Lagos
+69, Lawal,Olawale,F,27,Ondo
+70,Okafor, Lawal,M,28,Ekiti
+71, Okoye,Okafor,F,29,Osun
+72,Eze, Okoye,M,30,Oyo
+73,Nwankwo,Eze,F,31,Ogun
+74, Onyekachi,Garba,M,32,Lagos
+75,Chukwu, Bello,F,33,Ondo
+76,Iroegbu, Shehu,M,34,Ekiti
+77, Ibeh, Yakubu,F,35,Osun
+78, Obi, Adebisi,M,36,Oyo
+79, Suleiman, Ajayi,F,37,Ogun
+80,Adamu, Ojo,M,38,Lagos
+81,Garba, Afolayan,F,39,Ondo
+82, Bello,Abdullahi,M,40,Ekiti
+83, Shehu,Mohammed,F,41,Osun
+84, Yakubu,Akinwale,M,42,Oyo
+85, Adebisi, Olatunji,F,43,Ogun
+86, Ajayi,Olawale,M,44,Lagos
+87, Ojo, Lawal,F,45,Ondo
+88, Afolayan,Okafor,M,46,Ekiti
+89,Abdullahi, Okoye,F,47,Osun
+90,Mohammed,Eze,M,48,Oyo
+91,Adeyemi,Garba,F,49,Ogun
+92,Ogunleye, Bello,M,50,Lagos
+93,Balogun, Shehu,F,51,Ondo
+94, Akinwale, Yakubu,M,52,Ekiti
+95, Olatunji, Adebisi,F,53,Osun
+96,Olawale, Ajayi,M,54,Oyo
+97, Lawal, Ojo,F,55,Ogun
+98,Okafor, Afolayan,M,56,Lagos
+99, Okoye,Abdullahi,F,57,Ondo
+100,Eze,Mohammed,M,58,Ekiti
+101,Nwankwo,Nwankwo,F,59,Osun
+102, Onyekachi, Onyekachi,M,60,Oyo
+103,Chukwu,Chukwu,F,61,Ogun
+104,Iroegbu,Iroegbu,M,62,Lagos
+105, Ibeh, Ibeh,F,63,Ondo
+106, Obi, Obi,M,64,Ekiti
+107, Suleiman, Suleiman,F,65,Osun
+108,Adamu,Adamu,M,66,Oyo
+109,Garba,Adeyemi,F,67,Ogun
+110, Bello,Ogunleye,M,68,Lagos
+111, Shehu,Balogun,F,69,Ondo
+112, Yakubu, Suleiman,M,70,Ekiti
+113, Ikenna,Adamu,F,71,Osun
+114,Samuel,Adeyemi,M,72,Oyo
+115,Daniel,Ogunleye,F,73,Ogun
+116, Esther,Balogun,M,74,Lagos
+117,Ruth, Akinwale,F,75,Ondo
+118, Deborah, Olatunji,M,76,Ekiti
+119,Grace,Olawale,F,77,Osun
+120, Patience, Lawal,M,18,Oyo

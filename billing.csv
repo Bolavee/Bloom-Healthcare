@@ -1,0 +1,201 @@
+billing_id,admission_id,amount,insurance_type
+501,101,20500,National Health Insurance
+502,102,21000,Out-of-Pocket
+503,103,21500,Private
+504,104,22000,National Health Insurance
+505,105,22500,Out-of-Pocket
+506,106,23000,Private
+507,107,23500,National Health Insurance
+508,108,24000,Out-of-Pocket
+509,109,24500,Private
+510,110,25000,National Health Insurance
+511,111,25500,Out-of-Pocket
+512,112,26000,Private
+513,113,26500,National Health Insurance
+514,114,27000,Out-of-Pocket
+515,115,27500,Private
+516,116,28000,National Health Insurance
+517,117,28500,Out-of-Pocket
+518,118,29000,Private
+519,119,29500,National Health Insurance
+520,120,30000,Out-of-Pocket
+521,121,30500,Private
+522,122,31000,National Health Insurance
+523,123,31500,Out-of-Pocket
+524,124,32000,Private
+525,125,32500,National Health Insurance
+526,126,33000,Out-of-Pocket
+527,127,33500,Private
+528,128,34000,National Health Insurance
+529,129,34500,Out-of-Pocket
+530,130,35000,Private
+531,131,35500,National Health Insurance
+532,132,36000,Out-of-Pocket
+533,133,36500,Private
+534,134,37000,National Health Insurance
+535,135,37500,Out-of-Pocket
+536,136,38000,Private
+537,137,38500,National Health Insurance
+538,138,39000,Out-of-Pocket
+539,139,39500,Private
+540,140,40000,National Health Insurance
+541,141,40500,Out-of-Pocket
+542,142,41000,Private
+543,143,41500,National Health Insurance
+544,144,42000,Out-of-Pocket
+545,145,42500,Private
+546,146,43000,National Health Insurance
+547,147,43500,Out-of-Pocket
+548,148,44000,Private
+549,149,44500,National Health Insurance
+550,150,45000,Out-of-Pocket
+551,151,45500,Private
+552,152,46000,National Health Insurance
+553,153,46500,Out-of-Pocket
+554,154,47000,Private
+555,155,47500,National Health Insurance
+556,156,48000,Out-of-Pocket
+557,157,48500,Private
+558,158,49000,National Health Insurance
+559,159,49500,Out-of-Pocket
+560,160,50000,Private
+561,161,50500,National Health Insurance
+562,162,51000,Out-of-Pocket
+563,163,51500,Private
+564,164,52000,National Health Insurance
+565,165,52500,Out-of-Pocket
+566,166,53000,Private
+567,167,53500,National Health Insurance
+568,168,54000,Out-of-Pocket
+569,169,54500,Private
+570,170,55000,National Health Insurance
+571,171,55500,Out-of-Pocket
+572,172,56000,Private
+573,173,56500,National Health Insurance
+574,174,57000,Out-of-Pocket
+575,175,57500,Private
+576,176,58000,National Health Insurance
+577,177,58500,Out-of-Pocket
+578,178,59000,Private
+579,179,59500,National Health Insurance
+580,180,60000,Out-of-Pocket
+581,181,60500,Private
+582,182,61000,National Health Insurance
+583,183,61500,Out-of-Pocket
+584,184,62000,Private
+585,185,62500,National Health Insurance
+586,186,63000,Out-of-Pocket
+587,187,63500,Private
+588,188,64000,National Health Insurance
+589,189,64500,Out-of-Pocket
+590,190,65000,Private
+591,191,65500,National Health Insurance
+592,192,66000,Out-of-Pocket
+593,193,66500,Private
+594,194,67000,National Health Insurance
+595,195,67500,Out-of-Pocket
+596,196,68000,Private
+597,197,68500,National Health Insurance
+598,198,69000,Out-of-Pocket
+599,199,69500,Private
+600,200,70000,National Health Insurance
+601,201,70500,Out-of-Pocket
+602,202,71000,Private
+603,203,71500,National Health Insurance
+604,204,72000,Out-of-Pocket
+605,205,72500,Private
+606,206,73000,National Health Insurance
+607,207,73500,Out-of-Pocket
+608,208,74000,Private
+609,209,74500,National Health Insurance
+610,210,75000,Out-of-Pocket
+611,211,75500,Private
+612,212,76000,National Health Insurance
+613,213,76500,Out-of-Pocket
+614,214,77000,Private
+615,215,77500,National Health Insurance
+616,216,78000,Out-of-Pocket
+617,217,78500,Private
+618,218,79000,National Health Insurance
+619,219,79500,Out-of-Pocket
+620,220,80000,Private
+621,221,80500,National Health Insurance
+622,222,81000,Out-of-Pocket
+623,223,81500,Private
+624,224,82000,National Health Insurance
+625,225,82500,Out-of-Pocket
+626,226,83000,Private
+627,227,83500,National Health Insurance
+628,228,84000,Out-of-Pocket
+629,229,84500,Private
+630,230,85000,National Health Insurance
+631,231,85500,Out-of-Pocket
+632,232,86000,Private
+633,233,86500,National Health Insurance
+634,234,87000,Out-of-Pocket
+635,235,87500,Private
+636,236,88000,National Health Insurance
+637,237,88500,Out-of-Pocket
+638,238,89000,Private
+639,239,89500,National Health Insurance
+640,240,90000,Out-of-Pocket
+641,241,90500,Private
+642,242,91000,National Health Insurance
+643,243,91500,Out-of-Pocket
+644,244,92000,Private
+645,245,92500,National Health Insurance
+646,246,93000,Out-of-Pocket
+647,247,93500,Private
+648,248,94000,National Health Insurance
+649,249,94500,Out-of-Pocket
+650,250,95000,Private
+651,251,95500,National Health Insurance
+652,252,96000,Out-of-Pocket
+653,253,96500,Private
+654,254,97000,National Health Insurance
+655,255,97500,Out-of-Pocket
+656,256,98000,Private
+657,257,98500,National Health Insurance
+658,258,99000,Out-of-Pocket
+659,259,99500,Private
+660,260,100000,National Health Insurance
+661,261,100500,Out-of-Pocket
+662,262,101000,Private
+663,263,101500,National Health Insurance
+664,264,102000,Out-of-Pocket
+665,265,102500,Private
+666,266,103000,National Health Insurance
+667,267,103500,Out-of-Pocket
+668,268,104000,Private
+669,269,104500,National Health Insurance
+670,270,105000,Out-of-Pocket
+671,271,105500,Private
+672,272,106000,National Health Insurance
+673,273,106500,Out-of-Pocket
+674,274,107000,Private
+675,275,107500,National Health Insurance
+676,276,108000,Out-of-Pocket
+677,277,108500,Private
+678,278,109000,National Health Insurance
+679,279,109500,Out-of-Pocket
+680,280,110000,Private
+681,281,110500,National Health Insurance
+682,282,111000,Out-of-Pocket
+683,283,111500,Private
+684,284,112000,National Health Insurance
+685,285,112500,Out-of-Pocket
+686,286,113000,Private
+687,287,113500,National Health Insurance
+688,288,114000,Out-of-Pocket
+689,289,114500,Private
+690,290,115000,National Health Insurance
+691,291,115500,Out-of-Pocket
+692,292,116000,Private
+693,293,116500,National Health Insurance
+694,294,117000,Out-of-Pocket
+695,295,117500,Private
+696,296,118000,National Health Insurance
+697,297,118500,Out-of-Pocket
+698,298,119000,Private
+699,299,119500,National Health Insurance
+700,300,120000,Out-of-Pocket

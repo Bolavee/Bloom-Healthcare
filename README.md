@@ -36,6 +36,8 @@ Malaria is the most common diagnosis
 Patient admissions vary by month
 Certain diagnoses account for higher treatment costs
 
+Screenshot of Dashboard-Bloomhealth dashboard.PNG
+
 Author
 Omobolanle Victoria Olubowale
 Aspiring Data Analyst
